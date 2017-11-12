@@ -24,13 +24,13 @@
 * wireframes, prototype
 * personas
 * target audience analycies
- * interviews
- * focus groups
- * observations
- * questionnaries
- * bi analysis
- * analytics
- * eye/mouse tracking (heatmaps)
+  * interviews
+  * focus groups
+  * observations
+  * questionnaries
+  * bi analysis
+  * analytics
+  * eye/mouse tracking (heatmaps)
 * user journey
 * storyboards (airbnb)
 * mood base graphs (wix?)
