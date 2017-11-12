@@ -20,6 +20,10 @@
 * 1/1 - never use it
 * side menu - connet to top or connect to right
 * grid items - space top or space side
+* too many options (the jam reasearch) -  hick's law - `pepole can handle 5+/-2 options`
+* the 7 seconds law
+* fold - create part outside that pepole knows they can scroll
+
 
 * wireframes, prototype
 * personas
@@ -34,6 +38,9 @@
 * user journey
 * storyboards (airbnb)
 * mood base graphs (wix?)
+* when users use the platform (mobile all day short times, desktop during the office, tablet at night) - graph from pocket
+
+
 
 * define (decide how we’d like the user to scan the screen’s content)
 * desing (place elements in a correct order and lead them to scan like we’d like them to)
